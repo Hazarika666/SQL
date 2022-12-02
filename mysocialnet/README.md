@@ -1,3 +1,3 @@
-### Creating a database in mysql for a social media project.
+### Creating a database in MySQL for a Social media project.
 
-Creating tables. defining relationships. adding primary and foregien keys.
+Creating tables, defining relationships, adding primary and foregien keys.
